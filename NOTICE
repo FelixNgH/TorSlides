@@ -1,0 +1,25 @@
+TorSlides
+
+Third-party components and assets:
+
+Baloo 2 (font family)
+  Version: bundled
+  License: SIL Open Font License 1.1
+  License file: assets/brand/fonts/OFL-baloo2.txt
+
+Be Vietnam Pro (font family)
+  Version: bundled
+  License: SIL Open Font License 1.1
+  License file: assets/brand/fonts/OFL-bevietnampro.txt
+
+Lucide icons
+  Version: 1.61.0
+  License: ISC License
+  License file: assets/brand/LICENSE-lucide-ISC.txt
+
+tor.svg logo TorReader
+  Version: bundled
+  License: TorReader project asset
+  License file: LICENSES.md
+
+Fonts: SIL Open Font License 1.1. Icons: ISC License.
