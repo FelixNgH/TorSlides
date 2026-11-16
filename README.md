@@ -1,3 +1,4 @@
+<p align="center"><img src="docs/logo.png" alt="TorSlides" width="120"></p>
 <h1 align="center">TorSlides</h1>
 <p align="center">
   <a href="https://github.com/FelixNgH/TorSlides/releases/latest"><img src="https://img.shields.io/github/v/release/FelixNgH/TorSlides" alt="Release"></a>
